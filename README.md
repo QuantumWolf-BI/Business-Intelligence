@@ -1,2 +1,2 @@
-# Qunatum-Wolf-Business-Intelligence
+# Quantum-Wolf-Business-Intelligence
 The key is a new operating model- one that's anchored around the customer and propelled by intelligence to deliver exceptional experiences across the enterprise at speed and at scale. We will deliver breakthrough business outcomes for the clients- but harnessing talent, data and intelligence to revolutionize their operating models. Operation is one of four services that makeup one Quantum Wolf- the others are strategy and consulting, interactive and technology.
